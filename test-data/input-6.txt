@@ -1,2 +1,0 @@
-# Create a ship with stocked torpedo stores that never fail
-TORPEDO
